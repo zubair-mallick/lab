@@ -18,7 +18,7 @@ def sigmoid_derivative(x):
 # Training hyperparameters
 epochs = 5000
 learning_rate = 0.1
-
+ 
 # Neural network architecture
 input_neurons = 2       # Number of input features
 hidden_neurons = 3      # Hidden layer size
